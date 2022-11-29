@@ -14,7 +14,7 @@
 /* --- initial state start ------ */
 
 .initial-navbar {
-  background-color: transparent;
+  background-color: black;
 }
 
 .initial-navbar .navbar-brand {
@@ -189,7 +189,7 @@
     transition: none;
 
     border-bottom: none;
-    background: transparent;
+    background: black;
   }
 
   .final-navbar li a {
@@ -228,7 +228,7 @@
     transition: none;
 
     border-bottom: none;
-    background: transparent;
+    background: black;
   }
 
   .final-navbar li a {
@@ -261,7 +261,7 @@
     transition: none;
 
     border-bottom: none;
-    background: transparent;
+    background: black;
   }
 
   .final-navbar li a {
